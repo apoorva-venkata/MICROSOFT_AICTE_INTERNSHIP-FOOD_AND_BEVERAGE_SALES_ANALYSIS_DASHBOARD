@@ -61,8 +61,7 @@ These visuals help stakeholders quickly understand business performance and iden
 
 
 Dashboard Preview:
-https://github.com/apoorva-venkata/MICROSOFT_AICTE_INTERNSHIP-FOOD_AND_BEVERAGE_SALES_ANALYSIS_DASHBOARD/blob/main/Dashboard_images/Final_Dashboard_Visualization.png
-
+Dashboard_images/Final_Dashboard_Visualization.png
 ---
 
 ## 🚀 How to Use
