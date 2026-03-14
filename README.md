@@ -88,4 +88,4 @@ These visuals help stakeholders quickly understand business performance and iden
 
 **Naraharisetti Venkata Apoorva**
 
-This project was developed as part of a data analytics and visualization learning initiative using Microsoft Power BI.
+This project was developed as part of my internship project submission to demonstrate data analysis and visualization skills using Microsoft Power BI.
